@@ -6,12 +6,9 @@
 
 ## Features
 
-
-
 The contract allows users with the MINTER_ROLE to mint new tokens and set token URIs.
 
 The contract also supports querying token URIs and provides a base URI for token metadata.
-
 
 ## Use case
 
@@ -19,9 +16,9 @@ ERC721MintRole tokens are perfect for physical assets such as land, real estate,
 
 ## Sample dApp
 - github repo URL
-    https://github.com/john082Coder/BunzzERC721FullModuleTest
+    https://github.com/john082Coder/BunzzERC721CustomURIMintableModuleTest
 - simple dapp URL
-    https://bunzz-erc-721-full-module-test.vercel.app/
+    https://bunzz-erc-721-custom-uri-mintable-module-test.vercel.app/
 
 
 ---
