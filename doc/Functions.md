@@ -3,22 +3,22 @@
 ## transferFrom
 Transfer a particular tokenId from the token owner to an certai address if the caller have the permission to transfer it
 
-|Name|Type|Description|Example|Default|
-|--- |---|---|---|---|
-|from|address|The token sender address||N/A|
-|to|address|The token receiver address||N/A|
-|tokenId|uint256|The id of the token that will be transfered||N/A|
+|Name|Type|Description|
+|--- |---|---|
+|from|address|The token sender address|
+|to|address|The token receiver address|
+|tokenId|uint256|The id of the token that will be transfered|
 
 
 ## safeTransferFrom
 Safely transfers the ownership of a given token ID
 
-|Name|Type|Description|Example|Default|
-|--- |---|---|---|---|
-|from|address|The token sender||N/A|
-|to|address|The token receiver||N/A|
-|tokenId|uint256|The id of the token that will be sent||N/A|
-|_data|bytes|Optional data field||N/A|
+|Name|Type|Description|
+|--- |---|---|
+|from|address|The token sender|
+|to|address|The token receiver|
+|tokenId|uint256|The id of the token that will be sent|
+|_data|bytes|Optional data field|
 
 ## safeTransferFrom
 Safely transfers the ownership of a given token ID
